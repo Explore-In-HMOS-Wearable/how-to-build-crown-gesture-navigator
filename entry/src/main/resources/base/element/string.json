@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hint_rotation",
+      "value": "↻ 2 fingers: change track"
+    },
+    {
+      "name": "hint_shuffle",
+      "value": "hold+drag"
+    },
+    {
+      "name": "hint_repeat",
+      "value": "tap×2+swipe"
+    },
+    {
+      "name": "overlay_next_track",
+      "value": "⏭  Next Track"
+    },
+    {
+      "name": "overlay_prev_track",
+      "value": "⏮  Prev Track"
+    },
+    {
+      "name": "overlay_shuffle_on",
+      "value": "🔀 Shuffle On"
+    },
+    {
+      "name": "overlay_shuffle_off",
+      "value": "🔀 Shuffle Off"
+    },
+    {
+      "name": "overlay_repeat_on",
+      "value": "🔁 Repeat On"
+    },
+    {
+      "name": "overlay_repeat_off",
+      "value": "🔁 Repeat Off"
+    }
+  ]
+}

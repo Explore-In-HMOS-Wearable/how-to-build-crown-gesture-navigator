@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_text_secondary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_overlay_bg",
+      "value": "#000000"
+    },
+    {
+      "name": "player_divider",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_button_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_volume_track_bg",
+      "value": "#FFFFFF"
+    }
+  ]
+}
